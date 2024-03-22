@@ -24,5 +24,5 @@ Estas são algumas tecnologias que uso e estou estudando
 
 
 <div align="center">
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoBReis&layout=compact)
+  <img loading="lazy" height="200rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoBReis&layout=compact" />
 </div>
